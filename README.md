@@ -50,6 +50,9 @@ Precisara criar uma aplicação com nextjs, o visual ficara de escopo aberto pod
 -----
 -----
 
+## Banco de dados
+Usar o MySQL como banco de dados do projeto.
+
 ## Documentação
 Descreva a documentação do projeto de forma simples, e como ponto necessário, documentar os comandos de start do projeto.
 
